@@ -1,0 +1,1131 @@
+﻿Log file open, 09/24/17 19:36:44
+LogInit:Display: Running engine for game: TrueVintage
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-392505971) SRandInit(-392505971).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.086010
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.25-02.36.45:414][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.25-02.36.45:414][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.25-02.36.45:424][  0]LogInit: Computer: FLAMESTRIKE
+[2017.09.25-02.36.45:424][  0]LogInit: User: kevin
+[2017.09.25-02.36.45:424][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.09.25-02.36.45:424][  0]LogInit: High frequency timer resolution =3.429423 MHz
+[2017.09.25-02.36.45:425][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.09.25-02.36.45:425][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.25-02.36.45:425][  0]LogMemory: Process Physical Memory: 265.47 MB used, 265.47 MB peak
+[2017.09.25-02.36.45:425][  0]LogMemory: Process Virtual Memory: 264.46 MB used, 264.46 MB peak
+[2017.09.25-02.36.45:425][  0]LogMemory: Physical Memory: 6410.09 MB used,  9876.83 MB free, 16286.92 MB total
+[2017.09.25-02.36.45:425][  0]LogMemory: Virtual Memory: 653.09 MB used,  9876.83 MB free, 8388608.00 MB total
+[2017.09.25-02.36.45:462][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.09.25-02.36.46:257][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.25-02.36.46:299][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2017.09.25-02.36.46:299][  0]LogD3D11RHI:       8084/0/7887 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.09.25-02.36.46:299][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.25-02.36.46:309][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.25-02.36.46:309][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.25-02.36.46:309][  0]LogWindows: EnumDisplayDevices:
+[2017.09.25-02.36.46:309][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2017.09.25-02.36.46:309][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.09.25-02.36.46:309][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.09.25-02.36.46:310][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.09.25-02.36.46:310][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.09.25-02.36.46:310][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.09.25-02.36.46:310][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.09.25-02.36.46:310][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.09.25-02.36.46:311][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2017.09.25-02.36.46:311][  0]LogD3D11RHI:   Driver Version: 382.53 (internal:22.21.13.8253, unified:382.53)
+[2017.09.25-02.36.46:311][  0]LogD3D11RHI:      Driver Date: 6-7-2017
+[2017.09.25-02.36.46:311][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.25-02.36.46:324][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.25-02.36.46:344][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.09.25-02.36.46:344][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Intermediate/Shaders/WorkingDirectory/3048/).
+[2017.09.25-02.36.46:345][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kevin/AppData/Local/Temp/UnrealShaderWorkingDir/4E796F384D1CA8E502212998722A7068/'.
+[2017.09.25-02.36.46:345][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.09.25-02.36.47:895][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.25-02.36.47:986][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.09.25-02.36.48:070][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.25-02.36.48:154][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.09.25-02.36.48:241][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.09.25-02.36.48:321][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.25-02.36.48:404][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.25-02.36.48:486][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.25-02.36.48:552][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.09.25-02.36.48:633][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.09.25-02.36.48:713][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.25-02.36.48:793][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.25-02.36.48:872][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.25-02.36.48:951][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.25-02.36.49:030][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.25-02.36.49:191][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.25-02.36.49:191][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.25-02.36.49:247][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.09.25-02.36.49:369][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.09.25-02.36.49:422][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.09.25-02.36.49:501][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.25-02.36.49:583][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.25-02.36.49:663][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.25-02.36.49:743][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.09.25-02.36.49:743][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.09.25-02.36.50:292][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.09.25-02.36.50:397][  0]LogDerivedDataCache: Loaded boot cache 0.10s 55MB C:/Users/kevin/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.09.25-02.36.50:397][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/kevin/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.09.25-02.36.50:397][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.25-02.36.50:397][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.25-02.36.50:397][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.25-02.36.50:397][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.25-02.36.50:422][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.25-02.36.50:433][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.25-02.36.50:718][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.25-02.36.50:722][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.25-02.36.51:013][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.25-02.36.51:076][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.25-02.36.51:141][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.25-02.36.51:141][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.09.25-02.36.51:141][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.09.25-02.36.51:870][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: truevintage, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3522009197
+[2017.09.25-02.36.51:956][  0]LogAssetRegistry: FAssetRegistry took 0.0200 seconds to start up
+[2017.09.25-02.36.52:022][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.026375 seconds
+[2017.09.25-02.36.52:032][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.09.25-02.36.52:032][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.09.25-02.36.52:032][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.25-02.36.52:130][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.25-02.36.53:194][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.25-02.36.53:194][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.25-02.36.53:195][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.25-02.36.54:208][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.25-02.36.54:256][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.25-02.36.54:660][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.25-02.36.55:186][  0]SourceControl: Info Source control is disabled
+[2017.09.25-02.36.55:210][  0]SourceControl: Info Source control is disabled
+[2017.09.25-02.36.55:278][  0]SourceControl: Info Source control is disabled
+[2017.09.25-02.36.55:343][  0]SourceControl: Info Source control is disabled
+[2017.09.25-02.36.57:134][  0]LogEngine: Initializing Engine...
+[2017.09.25-02.36.57:175][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2017.09.25-02.36.57:495][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.25-02.36.57:520][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.25-02.36.57:535][  0]LogInit: FAudioDevice initialized.
+[2017.09.25-02.36.57:589][  0]LogDerivedDataCache: Saved boot cache 0.05s 55MB C:/Users/kevin/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.09.25-02.36.57:609][  0]LogInit: Texture streaming: Enabled
+[2017.09.25-02.36.57:878][  0]LogInit: Transaction tracking system initialized
+[2017.09.25-02.36.58:384][  0]BlueprintLog: New page: Editor Load
+[2017.09.25-02.36.59:635][  0]LocalizationService: Info Localization service is disabled
+[2017.09.25-02.37.00:540][  0]LogConsoleResponse:Display: 
+[2017.09.25-02.37.00:711][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.25-02.37.00:711][  0]LogCook:Display: Mobile HDR setting 1
+[2017.09.25-02.37.01:444][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/' took 0.02s
+[2017.09.25-02.37.02:101][  0]SourceControl: Info Source control is disabled
+[2017.09.25-02.37.02:102][  0]Cmd: MAP LOAD FILE="../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.25-02.37.02:102][  0]LogEditorServer:Warning: Can't find file '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.09.25-02.37.02:102][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.25-02.37.02:149][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 47.601ms to complete.
+[2017.09.25-02.37.02:150][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.048
+[2017.09.25-02.37.02:306][  0]LogCollectionManager: Loaded 0 collections in 0.001502 seconds
+[2017.09.25-02.37.02:401][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/Collections/' took 0.01s
+[2017.09.25-02.37.02:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/Developers/kevin/Collections/' took 0.01s
+[2017.09.25-02.37.02:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/Collections/' took 0.01s
+[2017.09.25-02.37.02:402][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.09.25-02.37.02:416][  0]LogContentBrowser: Native class hierarchy populated in 0.0145 seconds. Added 2190 classes and 428 folders.
+[2017.09.25-02.37.02:475][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.25-02.37.02:476][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.25-02.37.02:476][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0007 seconds. Added 13 classes and 0 folders.
+[2017.09.25-02.37.02:566][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.09.25-02.37.02:615][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.09.25-02.37.02:678][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.09.25-02.37.02:730][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.09.25-02.37.02:738][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.09.25-02.37.02:820][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.09.25-02.37.02:821][  0]LogLoad: (Engine Initialization) Total time: 19.56 seconds
+[2017.09.25-02.37.02:821][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.06 seconds
+[2017.09.25-02.37.02:821][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.09.25-02.37.02:821][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.09.25-02.37.02:830][  0]LogOcInput: OculusInput pre-init called
+[2017.09.25-02.37.02:850][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.25-02.37.03:039][  0]LogRenderer: Reallocating scene render targets to support 1208x600 NumSamples 1 (Frame:2).
+[2017.09.25-02.37.03:143][  1]LogAssetRegistry: Asset discovery search completed in 11.2081 seconds
+[2017.09.25-02.37.03:143][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.09.25-02.37.03:143][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000022 seconds (updated 0 objects)
+[2017.09.25-02.40.22:896][336]SourceControl: Info On branch master
+[2017.09.25-02.40.22:896][336]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2017.09.25-02.40.22:896][336]SourceControl: Info Changes to be committed:
+[2017.09.25-02.40.22:896][336]SourceControl: Info   (use "git reset HEAD <file>..." to unstage)
+[2017.09.25-02.40.22:896][336]SourceControl: Info 	modified:   .gitignore
+[2017.09.25-02.40.22:896][336]SourceControl: Info Changes not staged for commit:
+[2017.09.25-02.40.22:896][336]SourceControl: Info   (use "git add/rm <file>..." to update what will be committed)
+[2017.09.25-02.40.22:896][336]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.09.25-02.40.22:896][336]SourceControl: Info 	deleted:    TrueVintage/Config/DefaultEditor.ini
+[2017.09.25-02.40.22:896][336]SourceControl: Info 	deleted:    TrueVintage/Content/Geometry/Meshes/CubeMaterial.uasset
+[2017.09.25-02.40.22:896][336]SourceControl: Info 	deleted:    TrueVintage/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset
+[2017.09.25-02.40.22:896][336]SourceControl: Info 	deleted:    TrueVintage/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset
+[2017.09.25-02.40.22:896][336]SourceControl: Info 	deleted:    TrueVintage/Content/StarterContent/Materials/M_Rock_Basalt.uasset
+[2017.09.25-02.40.22:896][336]SourceControl: Info 	deleted:    TrueVintage/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset
+[2017.09.25-02.40.22:896][336]SourceControl: Info 	deleted:    TrueVintage/Content/StarterContent/Particles/P_Fire.uasset
+[2017.09.25-02.40.22:896][336]SourceControl: Info 	deleted:    TrueVintage/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.09.25-02.40.22:896][336]SourceControl: Info 	deleted:    TrueVintage/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	modified:   TrueVintage/Intermediate/CachedAssetRegistry.bin
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	modified:   TrueVintage/Intermediate/Config/CoalescedSourceConfigs/Editor.ini
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	modified:   TrueVintage/Intermediate/ReimportCache/3688439234.bin
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	modified:   TrueVintage/Saved/AutoScreenshot.png
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	deleted:    TrueVintage/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	deleted:    TrueVintage/Saved/Backup/CubeMaterial_2017-01-28-16-07-56.uasset
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	deleted:    TrueVintage/Saved/Backup/CubeMaterial_2017-01-28-16-20-52.uasset
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	deleted:    TrueVintage/Saved/Backup/Dylan_skelmesh_PhysicsAsset_2017-01-28-15-46-08.uasset
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	deleted:    TrueVintage/Saved/Backup/Floor_400x400_2017-01-26-00-49-00.uasset
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	deleted:    TrueVintage/Saved/Backup/ThirdPerson_AnimBP_2017-01-28-16-07-56.uasset
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	deleted:    TrueVintage/Saved/Backup/TopDownCharacter_2017-01-28-16-07-56.uasset
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	deleted:    TrueVintage/Saved/Backup/TopDownExampleMap_2017-01-28-16-07-56.umap
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	modified:   TrueVintage/Saved/Config/Windows/Editor.ini
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	modified:   TrueVintage/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	modified:   TrueVintage/Saved/Config/Windows/Engine.ini
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	deleted:    TrueVintage/Saved/Config/WorldState/1077236724.json
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	modified:   TrueVintage/Saved/Logs/TrueVintage.log
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	deleted:    TrueVintage/Saved/Logs/UE4CC-Windows-4989F45C4F725178BEF7C79B3D5BD8F7/CrashReportClient.ini
+[2017.09.25-02.40.22:897][336]SourceControl: Info Untracked files:
+[2017.09.25-02.40.22:897][336]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Content/Maps/
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Content/StarterContent/myparticles/
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Content/vel.177.fga
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Content/vel_177.uasset
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Saved/Autosaves/Game/StarterContent/
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto5.umap
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Saved/Backup/BladeBarrior_2017-09-03-20-24-12.uasset
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Saved/Backup/CubeMaterial_2017-09-04-00-46-42.uasset
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Saved/Backup/Leaf_2017-09-03-21-30-14.uasset
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Saved/Backup/Leaf_2017-09-03-21-47-37.uasset
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Saved/Backup/M_Brick_Clay_Old_2017-09-03-21-30-14.uasset
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Saved/Backup/M_Brick_Clay_Old_2017-09-04-00-46-42.uasset
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Saved/Backup/M_Dust_Particle_2017-09-05-19-56-07.uasset
+[2017.09.25-02.40.22:897][336]SourceControl: Info 	TrueVintage/Saved/Backup/M_Dust_Particle_2017-09-05-21-53-31.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/M_LightStage_Arrows_2017-09-03-21-30-14.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/M_LightStage_Arrows_2017-09-04-00-46-42.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/M_Rock_Basalt_2017-09-04-00-46-42.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-20-28-29.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-20-45-57.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-21-30-14.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-21-43-28.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-21-52-55.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-22-09-49.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-22-37-19.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-22-44-10.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-22-52-36.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-23-38-35.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-23-54-49.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-00-45.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-10-23.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-15-39.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-20-58.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-26-43.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-32-20.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-38-40.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-43-58.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_beam_2017-09-04-11-10-20.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_beam_2017-09-04-11-19-02.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_beam_2017-09-04-11-24-45.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_beam_2017-09-04-11-34-54.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_beam_2017-09-04-11-46-34.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail2_2017-09-06-20-27-39.uasset
+[2017.09.25-02.40.22:898][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail2_2017-09-06-20-41-45.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail2_2017-09-06-20-50-53.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail2_2017-09-06-20-56-15.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail2_2017-09-06-21-37-36.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail2_2017-09-06-21-44-59.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-19-56-07.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-20-04-17.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-20-10-10.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-20-16-15.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-20-30-08.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-20-40-08.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-20-51-32.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-21-01-32.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-21-14-00.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-21-24-24.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-21-48-03.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-21-53-25.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-22-22-46.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-22-32-13.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-22-37-41.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-23-09-34.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-23-22-08.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-06-20-31-47.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-06-20-57-06.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/Rock_mat_2017-09-04-00-46-42.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/Smoke_2017-09-06-20-09-22.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/Smoke_2017-09-06-20-31-47.uasset
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-15-22-56.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-17-40-58.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-18-20-04.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-18-51-17.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-19-16-19.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-20-23-36.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-20-46-52.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-20-56-58.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-21-53-53.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-22-41-54.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-04-00-46-14.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-04-11-19-02.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-04-11-55-26.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-05-21-53-33.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-05-22-32-13.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-05-23-16-50.umap
+[2017.09.25-02.40.22:899][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-05-23-24-04.umap
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-06-20-31-47.umap
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-06-20-57-06.umap
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-06-21-46-04.umap
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-18-01-04-24.umap
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-03-19-16-19.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-03-20-23-36.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-03-20-46-52.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-03-20-56-58.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-03-21-53-53.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-03-22-41-54.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-04-00-46-14.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-05-23-24-05.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-06-21-46-04.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-18-01-04-25.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/beam_2017-09-04-11-04-03.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/beam_2017-09-05-21-53-31.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/gp4_2017-09-18-00-49-16.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/gp4_2017-09-18-00-56-42.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/gp4_2017-09-18-01-03-48.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-18-09-28.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-18-19-22.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-18-24-42.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-18-40-36.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-18-48-02.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-18-53-08.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-19-03-33.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-19-09-27.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-20-03-36.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-20-09-18.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-20-15-21.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-20-20-24.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/p_FIRESTORM_gpu2_2017-09-03-20-26-33.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/p_FIRESTORM_gpu_2017-09-03-20-24-37.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/p_FIRESTORM_gpu_2017-09-03-20-56-58.uasset
+[2017.09.25-02.40.22:900][336]SourceControl: Info 	TrueVintage/Saved/Backup/smoke_00085_2017-09-06-20-57-06.uasset
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Backup/spark_2017-09-03-17-54-15.uasset
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Backup/spark_2017-09-03-18-30-24.uasset
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Backup/spark_2017-09-03-18-39-35.uasset
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Backup/spark_2017-09-05-19-56-07.uasset
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Backup/spark_2017-09-05-21-53-31.uasset
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Backup/sword_2017-09-03-17-38-30.uasset
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Backup/sword_blinn_2017-09-03-17-47-51.uasset
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Backup/sword_blinn_2017-09-03-17-53-28.uasset
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Backup/sword_blinn_2017-09-03-18-14-33.uasset
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Config/WorldState/982493035.json
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Logs/TrueVintage_2-backup-2017.09.24-19.26.09.log
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Logs/TrueVintage_2-backup-2017.09.24-19.36.44.log
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Logs/TrueVintage_2.log
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Logs/UE4CC-Windows-0888A23E4C68D1B606FE45BA30AEEA5A/
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Logs/UE4CC-Windows-68045B6447EA9A20B9DF30A0CEAF2A3F/
+[2017.09.25-02.40.22:901][336]SourceControl: Info 	TrueVintage/Saved/Logs/UE4CC-Windows-999C41D447E8A5B3ECA08C9FE7BBE2D3/
+[2017.09.25-02.40.29:494][ 99]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.14/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.14/Engine/Content/' is outside repository
+[2017.09.25-02.40.29:625][ 99]LogPackageName:Error: Illegal call to DoesPackageExist: '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/TrueVintage.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2017.09.25-02.40.29:724][ 99]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.098 s
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: === Handled ensure: ===
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: 
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.14+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 624]
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: Illegal call to DoesPackageExist: '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/TrueVintage.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: Stack: 
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor-CoreUObject.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor-SourceControl.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor-SourceControl.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor-GitSourceControl.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor-GitSourceControl.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor-SourceControl.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor.exe
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor.exe
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor.exe
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor.exe
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: UE4Editor.exe
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: kernel32.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: ntdll.dll
+[2017.09.25-02.40.29:724][ 99]LogOutputDevice:Error: 
+[2017.09.25-02.40.29:728][ 99]LogStats:                SubmitErrorReport -  0.000 s
+[2017.09.25-02.40.32:397][ 99]LogStats:                    SendNewReport -  2.669 s
+[2017.09.25-02.40.32:397][ 99]LogStats:             FDebug::EnsureFailed -  2.771 s
+[2017.09.25-02.40.54:762][ 78]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 111 classes and 0 folders.
+[2017.09.25-02.40.55:058][ 78]LogBlueprintSupport:Warning: Editor config [EditoronlyBP] settings are DEPRECATED. You're not explicitly setting any, but they've been defaulting to off. If you are relying on this functionality, then please fix it up so your Blueprints don't break in a future release.
+[2017.09.25-02.40.56:107][ 78]LogTexture:Display: Building textures: Blueprint_64x (BGRA8)
+[2017.09.25-02.40.59:868][383]BlueprintLog: New page: Compile TopDownOverview
+[2017.09.25-02.41.23:242][ 35]LogLinker:Warning: Can't find file '/Game/Geometry/Meshes/CubeMaterial'
+[2017.09.25-02.41.23:242][ 35]LogLinker:Warning: Can't find file for asset '/Game/Geometry/Meshes/CubeMaterial' while loading ../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/Geometry/Meshes/1M_Cube.uasset.
+[2017.09.25-02.41.23:242][ 35]LoadErrors:Error: Error /Game/Geometry/Meshes/1M_Cube : Can't find file for asset. /Game/Geometry/Meshes/CubeMaterial
+[2017.09.25-02.41.23:243][ 35]LogLinker:Warning: Can't find file '/Game/Geometry/Meshes/CubeMaterial'
+[2017.09.25-02.41.23:243][ 35]LogLinker:Warning: Can't find file for asset '/Game/Geometry/Meshes/CubeMaterial' while loading ../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/Geometry/Meshes/1M_Cube.uasset.
+[2017.09.25-02.41.23:244][ 35]LogLinker:Warning: Can't find file '/Game/Geometry/Meshes/CubeMaterial'
+[2017.09.25-02.41.23:244][ 35]LogLinker:Warning: Can't find file for asset '/Game/Geometry/Meshes/CubeMaterial' while loading ../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset.
+[2017.09.25-02.41.23:244][ 35]LoadErrors:Error: Error /Game/Geometry/Meshes/1M_Cube_Chamfer : Can't find file for asset. /Game/Geometry/Meshes/CubeMaterial
+[2017.09.25-02.41.23:244][ 35]LogLinker:Warning: Can't find file '/Game/Geometry/Meshes/CubeMaterial'
+[2017.09.25-02.41.23:244][ 35]LogLinker:Warning: Can't find file for asset '/Game/Geometry/Meshes/CubeMaterial' while loading ../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset.
+[2017.09.25-02.41.23:371][ 35]LogLinker:Warning: Can't find file '/Game/Geometry/Meshes/CubeMaterial'
+[2017.09.25-02.41.23:371][ 35]LoadErrors: Info Failed to load /Game/Geometry/Meshes/CubeMaterial.CubeMaterial Referenced by 1M_Cube
+[2017.09.25-02.41.23:371][ 35]LogLinker:Warning: Can't find file for asset '/Game/Geometry/Meshes/CubeMaterial' while loading NULL.
+[2017.09.25-02.41.23:455][ 35]LogLinker:Warning: Can't find file '/Game/Geometry/Meshes/CubeMaterial'
+[2017.09.25-02.41.23:455][ 35]LoadErrors: Info Failed to load /Game/Geometry/Meshes/CubeMaterial.CubeMaterial Referenced by 1M_Cube_Chamfer
+[2017.09.25-02.41.23:455][ 35]LogLinker:Warning: Can't find file for asset '/Game/Geometry/Meshes/CubeMaterial' while loading NULL.
+[2017.09.25-02.41.23:890][ 35]LogAIModule: Creating AISystem for world TopDownExampleMapnight
+[2017.09.25-02.41.23:966][ 35]Cmd: MAP LOAD FILE="../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/Maps/TopDownExampleMapnight.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.25-02.41.23:966][ 35]LightingResults: New page: Lighting Build
+[2017.09.25-02.41.24:025][ 35]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0006 seconds. Added 5 classes and 0 folders.
+[2017.09.25-02.41.24:026][ 35]LoadErrors: New page: Loading map: TopDownExampleMapnight.umap
+[2017.09.25-02.41.24:027][ 35]MapCheck: New page: Map Check
+[2017.09.25-02.41.24:027][ 35]LightingResults: New page: Lighting Build
+[2017.09.25-02.41.24:077][ 35]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.25-02.41.24:097][ 35]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.25-02.41.24:156][ 35]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 58.294ms to complete.
+[2017.09.25-02.41.24:157][ 35]LogFileHelpers: Loading map 'TopDownExampleMapnight' took 0.208
+[2017.09.25-02.41.28:373][496]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.25-02.41.28:391][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight' with GeneratedClass '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight'
+[2017.09.25-02.41.28:391][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.25-02.41.28:392][496]PIE: New page: PIE session: TopDownExampleMapnight (Sep 24, 2017, 12:41:28 PM)
+[2017.09.25-02.41.28:392][496]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TopDownExampleMapnight
+[2017.09.25-02.41.28:439][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047335s)
+[2017.09.25-02.41.28:440][496]LogAIModule: Creating AISystem for world TopDownExampleMapnight
+[2017.09.25-02.41.28:440][496]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2017.09.25-02.41.28:441][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight to /Game/Maps/UEDPIE_0_TopDownExampleMapnight.TopDownExampleMapnight (0.048951s)
+[2017.09.25-02.41.28:477][496]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.25-02.41.28:491][496]LogInit: FAudioDevice initialized.
+[2017.09.25-02.41.28:536][496]LogLoad: Game class is 'TopDownGameMode_C'
+[2017.09.25-02.41.28:541][496]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TopDownExampleMapnight.TopDownExampleMapnight up for play (max tick rate 0) at 2017.09.24-19.41.28
+[2017.09.25-02.41.28:541][496]LogWorld: Bringing up level for play took: 0.003235
+[2017.09.25-02.41.28:599][496]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.09.25-02.41.28:600][496]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_TopDownExampleMapnight 0.943
+[2017.09.25-02.41.28:601][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight' with GeneratedClass '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight'
+[2017.09.25-02.43.00:705][333]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.14/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.14/Engine/Content/' is outside repository
+[2017.09.25-02.43.00:815][333]LogPackageName:Error: Illegal call to DoesPackageExist: '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/TrueVintage.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2017.09.25-02.43.11:868][333]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.09.25-02.43.12:089][333]SourceControl: Info [master 3ba5ca5] do it now
+[2017.09.25-02.43.12:089][333]SourceControl: Info  29 files changed, 0 insertions(+), 0 deletions(-)
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/Maps/TopDownExampleMapnight.umap
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/Sprite/D_leaf_tex.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/Sprite/D_rock_tex.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/Sprite/Leaf.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/Sprite/Mat_RibbonSource.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/Sprite/p_sparks.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/Sprite/spark.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/beam/P_beam.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/beam/P_trail.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/beam/P_trail2.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/beam/Smoke.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/beam/beam.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/beam/smoke_00085.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/gpusprite/BladeBarrior.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/gpusprite/P_BladeBarrior.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/gpusprite/P_Whirlwind.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/gpusprite/Simple_fluid_51.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/gpusprite/gp4.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/gpusprite/mesh.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/gpusprite/p_FIRESTORM_gpu.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/gpusprite/p_FIRESTORM_gpu2.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/gpusprite/p_sparks_gpu.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/mesh/Rock_mat.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/mesh/sd_rock.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/mesh/sword.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/mesh/sword_blinn.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/vel_177.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/StarterContent/myparticles/vel_219.uasset
+[2017.09.25-02.43.12:089][333]SourceControl: Info  create mode 100644 TrueVintage/Content/vel_177.uasset
+[2017.09.25-02.43.12:097][333]SourceControl: Info Commited [master 3ba5ca5] do it now.
+[2017.09.25-02.43.22:780][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight' with GeneratedClass '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight'
+[2017.09.25-02.43.22:819][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight' with GeneratedClass '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight'
+[2017.09.25-02.43.44:778][147]LogLinker:Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Dust_Particle'
+[2017.09.25-02.43.44:778][147]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Dust_Particle' while loading ../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/StarterContent/myparticles/gpusprite/P_Whirlwind.uasset.
+[2017.09.25-02.43.44:778][147]LoadErrors:Error: Error /Game/StarterContent/myparticles/gpusprite/P_Whirlwind : Can't find file for asset. /Game/StarterContent/Particles/Materials/M_Dust_Particle
+[2017.09.25-02.43.44:804][147]LogLinker:Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Dust_Particle'
+[2017.09.25-02.43.44:804][147]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Dust_Particle' while loading ../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/StarterContent/myparticles/gpusprite/P_Whirlwind.uasset.
+[2017.09.25-02.43.44:831][147]LogLinker:Warning: Can't find file '/Game/StarterContent/Particles/Materials/M_Dust_Particle'
+[2017.09.25-02.43.44:831][147]LoadErrors: Info Failed to load /Game/StarterContent/Particles/Materials/M_Dust_Particle.M_Dust_Particle Referenced by ParticleModuleRequired_0
+[2017.09.25-02.43.44:831][147]LogLinker:Warning: Can't find file for asset '/Game/StarterContent/Particles/Materials/M_Dust_Particle' while loading NULL.
+[2017.09.25-02.44.47:015][374]LogSourceControl: Writed 'C:/Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/Diff/temp-3ba5ca524883c7bb75ed32f8448e3ac9815a2ab4-TopDownExampleMapnight.umap' (8907020o)
+[2017.09.25-02.44.47:054][374]LogAIModule: Creating AISystem for world temp-3ba5ca524883c7bb75ed32f8448e3ac9815a2ab4-TopDownExampleMapnight
+[2017.09.25-02.44.51:766][782]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.14/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.14/Engine/Content/' is outside repository
+[2017.09.25-02.44.56:129][879]LogSavePackage: Save=184.59ms
+[2017.09.25-02.44.56:129][879]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/TopDownExampleMapnight68B8C11046360BDF6D6D9EB815E31F79.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/Maps/TopDownExampleMapnight.umap'
+[2017.09.25-02.44.56:134][879]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/Maps/TopDownExampleMapnight.umap
+[2017.09.25-02.44.56:202][879]SourceControl:Error: Error fatal: Invalid path '/Temp/Diff': No such file or directory
+[2017.09.25-02.44.56:204][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Diff/temp-3ba5ca524883c7bb75ed32f8448e3ac9815a2ab4-TopDownExampleMapnight_BuiltData" FILE="" SILENT=true
+[2017.09.25-02.44.56:462][879]LogSavePackage: Save=257.99ms
+[2017.09.25-02.44.56:462][879]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/6E2E50754427A70619117982E287E16E.tmp' to ''
+[2017.09.25-02.44.56:462][879]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/6E2E50754427A70619117982E287E16E.tmp' to '', retrying in .5s...
+[2017.09.25-02.44.56:962][879]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/6E2E50754427A70619117982E287E16E.tmp' to '', retrying in .5s...
+[2017.09.25-02.44.57:462][879]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/6E2E50754427A70619117982E287E16E.tmp' to '', retrying in .5s...
+[2017.09.25-02.44.57:963][879]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/6E2E50754427A70619117982E287E16E.tmp' to '', retrying in .5s...
+[2017.09.25-02.44.58:463][879]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/6E2E50754427A70619117982E287E16E.tmp' to '', retrying in .5s...
+[2017.09.25-02.44.58:963][879]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/6E2E50754427A70619117982E287E16E.tmp' to '', retrying in .5s...
+[2017.09.25-02.44.59:463][879]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/6E2E50754427A70619117982E287E16E.tmp' to '', retrying in .5s...
+[2017.09.25-02.44.59:963][879]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/6E2E50754427A70619117982E287E16E.tmp' to '', retrying in .5s...
+[2017.09.25-02.45.00:463][879]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/6E2E50754427A70619117982E287E16E.tmp' to '', retrying in .5s...
+[2017.09.25-02.45.00:963][879]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/6E2E50754427A70619117982E287E16E.tmp' to '', retrying in .5s...
+[2017.09.25-02.45.01:463][879]LogFileManager:Error: Error moving file '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/6E2E50754427A70619117982E287E16E.tmp' to ''.
+[2017.09.25-02.45.01:463][879]LogSavePackage:Error: Error saving ''
+[2017.09.25-02.45.01:464][879]LogSavePackage:Display: Finished SavePackage 
+[2017.09.25-02.45.07:232][879]EditorErrors: New page: Save Output
+[2017.09.25-02.45.07:232][879]EditorErrors:Warning: Warning Error saving ''
+[2017.09.25-02.45.07:352][884]SourceControl:Error: Error fatal: Invalid path '/Temp/Diff': No such file or directory
+[2017.09.25-02.45.16:838][655]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.14/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.14/Engine/Content/' is outside repository
+[2017.09.25-02.45.16:949][655]LogPackageName:Error: Illegal call to DoesPackageExist: '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/TrueVintage.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2017.09.25-02.45.32:290][869]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.25-02.45.32:303][869]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight' with GeneratedClass '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight'
+[2017.09.25-02.45.32:303][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.25-02.45.32:303][869]PIE: New page: PIE session: TopDownExampleMapnight (Sep 24, 2017, 12:45:32 PM)
+[2017.09.25-02.45.32:303][869]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TopDownExampleMapnight
+[2017.09.25-02.45.32:332][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029005s)
+[2017.09.25-02.45.32:333][869]LogAIModule: Creating AISystem for world TopDownExampleMapnight
+[2017.09.25-02.45.32:334][869]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2017.09.25-02.45.32:334][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight to /Game/Maps/UEDPIE_0_TopDownExampleMapnight.TopDownExampleMapnight (0.030314s)
+[2017.09.25-02.45.32:370][869]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.25-02.45.32:383][869]LogInit: FAudioDevice initialized.
+[2017.09.25-02.45.32:417][869]LogLoad: Game class is 'TopDownGameMode_C'
+[2017.09.25-02.45.32:422][869]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TopDownExampleMapnight.TopDownExampleMapnight up for play (max tick rate 0) at 2017.09.24-19.45.32
+[2017.09.25-02.45.32:422][869]LogWorld: Bringing up level for play took: 0.003494
+[2017.09.25-02.45.32:424][869]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_TopDownExampleMapnight 0.774
+[2017.09.25-02.45.32:424][869]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight' with GeneratedClass '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight'
+[2017.09.25-02.45.50:521][697]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight' with GeneratedClass '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight'
+[2017.09.25-02.45.50:570][697]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight' with GeneratedClass '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight'
+[2017.09.25-02.52.58:566][842]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.25-02.52.58:579][842]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight' with GeneratedClass '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight'
+[2017.09.25-02.52.58:579][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.25-02.52.58:579][842]PIE: New page: PIE session: TopDownExampleMapnight (Sep 24, 2017, 12:52:58 PM)
+[2017.09.25-02.52.58:579][842]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TopDownExampleMapnight
+[2017.09.25-02.52.58:619][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040091s)
+[2017.09.25-02.52.58:620][842]LogAIModule: Creating AISystem for world TopDownExampleMapnight
+[2017.09.25-02.52.58:620][842]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2017.09.25-02.52.58:621][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight to /Game/Maps/UEDPIE_0_TopDownExampleMapnight.TopDownExampleMapnight (0.041691s)
+[2017.09.25-02.52.58:660][842]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.25-02.52.58:675][842]LogInit: FAudioDevice initialized.
+[2017.09.25-02.52.58:707][842]LogLoad: Game class is 'TopDownGameMode_C'
+[2017.09.25-02.52.58:712][842]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TopDownExampleMapnight.TopDownExampleMapnight up for play (max tick rate 0) at 2017.09.24-19.52.58
+[2017.09.25-02.52.58:713][842]LogWorld: Bringing up level for play took: 0.003870
+[2017.09.25-02.52.58:714][842]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_TopDownExampleMapnight 1.06
+[2017.09.25-02.52.58:714][842]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight' with GeneratedClass '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight'
+[2017.09.25-02.57.55:480][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight' with GeneratedClass '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight'
+[2017.09.25-02.57.55:530][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight' with GeneratedClass '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMapnight.TopDownExampleMapnight:PersistentLevel.TopDownExampleMapnight'
+[2017.09.25-02.58.36:290][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.25-02.58.39:867][885]LogSavePackage: Save=191.40ms
+[2017.09.25-02.58.39:867][885]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/TopDownExampleMapnight546D1EFA45C3DA6E46120F971385E64D.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/Maps/TopDownExampleMapnight.umap'
+[2017.09.25-02.58.39:871][885]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/Maps/TopDownExampleMapnight.umap
+[2017.09.25-02.58.39:940][885]SourceControl:Error: Error fatal: Invalid path '/Temp/Diff': No such file or directory
+[2017.09.25-02.58.39:942][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Diff/temp-3ba5ca524883c7bb75ed32f8448e3ac9815a2ab4-TopDownExampleMapnight_BuiltData" FILE="" SILENT=true
+[2017.09.25-02.58.40:088][885]LogSavePackage: Save=146.15ms
+[2017.09.25-02.58.40:088][885]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/610553434D076503D4DC13BD004CE08E.tmp' to ''
+[2017.09.25-02.58.40:088][885]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/610553434D076503D4DC13BD004CE08E.tmp' to '', retrying in .5s...
+[2017.09.25-02.58.40:589][885]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/610553434D076503D4DC13BD004CE08E.tmp' to '', retrying in .5s...
+[2017.09.25-02.58.41:089][885]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/610553434D076503D4DC13BD004CE08E.tmp' to '', retrying in .5s...
+[2017.09.25-02.58.41:589][885]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/610553434D076503D4DC13BD004CE08E.tmp' to '', retrying in .5s...
+[2017.09.25-02.58.42:089][885]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/610553434D076503D4DC13BD004CE08E.tmp' to '', retrying in .5s...
+[2017.09.25-02.58.42:589][885]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/610553434D076503D4DC13BD004CE08E.tmp' to '', retrying in .5s...
+[2017.09.25-02.58.43:089][885]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/610553434D076503D4DC13BD004CE08E.tmp' to '', retrying in .5s...
+[2017.09.25-02.58.43:589][885]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/610553434D076503D4DC13BD004CE08E.tmp' to '', retrying in .5s...
+[2017.09.25-02.58.44:089][885]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/610553434D076503D4DC13BD004CE08E.tmp' to '', retrying in .5s...
+[2017.09.25-02.58.44:589][885]LogFileManager:Warning: MoveFile was unable to move '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/610553434D076503D4DC13BD004CE08E.tmp' to '', retrying in .5s...
+[2017.09.25-02.58.45:089][885]LogFileManager:Error: Error moving file '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/610553434D076503D4DC13BD004CE08E.tmp' to ''.
+[2017.09.25-02.58.45:089][885]LogSavePackage:Error: Error saving ''
+[2017.09.25-02.58.45:091][885]LogSavePackage:Display: Finished SavePackage 
+[2017.09.25-02.58.54:394][885]EditorErrors: New page: Save Output
+[2017.09.25-02.58.54:394][885]EditorErrors:Warning: Warning Error saving ''
+[2017.09.25-02.58.55:546][890]SourceControl:Error: Error fatal: Invalid path '/Temp/Diff': No such file or directory
+[2017.09.25-02.59.26:705][987]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.09.25-02.59.26:735][987]SourceControl: Info [master fe7f53d] map
+[2017.09.25-02.59.26:735][987]SourceControl: Info  1 file changed, 0 insertions(+), 0 deletions(-)
+[2017.09.25-02.59.26:742][987]SourceControl: Info Commited [master fe7f53d] map.
+[2017.09.25-02.59.50:244][879]SourceControl: Info On branch master
+[2017.09.25-02.59.50:244][879]SourceControl: Info Your branch is ahead of 'origin/master' by 2 commits.
+[2017.09.25-02.59.50:244][879]SourceControl: Info   (use "git push" to publish your local commits)
+[2017.09.25-02.59.50:244][879]SourceControl: Info Changes to be committed:
+[2017.09.25-02.59.50:244][879]SourceControl: Info   (use "git reset HEAD <file>..." to unstage)
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	modified:   .gitignore
+[2017.09.25-02.59.50:244][879]SourceControl: Info Changes not staged for commit:
+[2017.09.25-02.59.50:244][879]SourceControl: Info   (use "git add/rm <file>..." to update what will be committed)
+[2017.09.25-02.59.50:244][879]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	deleted:    TrueVintage/Config/DefaultEditor.ini
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	deleted:    TrueVintage/Content/Geometry/Meshes/CubeMaterial.uasset
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	deleted:    TrueVintage/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	deleted:    TrueVintage/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	deleted:    TrueVintage/Content/StarterContent/Materials/M_Rock_Basalt.uasset
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	deleted:    TrueVintage/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	deleted:    TrueVintage/Content/StarterContent/Particles/P_Fire.uasset
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	deleted:    TrueVintage/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	deleted:    TrueVintage/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	modified:   TrueVintage/Intermediate/CachedAssetRegistry.bin
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	modified:   TrueVintage/Intermediate/Config/CoalescedSourceConfigs/Editor.ini
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	modified:   TrueVintage/Intermediate/ReimportCache/3688439234.bin
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	modified:   TrueVintage/Saved/AutoScreenshot.png
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	deleted:    TrueVintage/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap
+[2017.09.25-02.59.50:244][879]SourceControl: Info 	modified:   TrueVintage/Saved/Autosaves/PackageRestoreData.json
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	deleted:    TrueVintage/Saved/Backup/CubeMaterial_2017-01-28-16-07-56.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	deleted:    TrueVintage/Saved/Backup/CubeMaterial_2017-01-28-16-20-52.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	deleted:    TrueVintage/Saved/Backup/Dylan_skelmesh_PhysicsAsset_2017-01-28-15-46-08.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	deleted:    TrueVintage/Saved/Backup/Floor_400x400_2017-01-26-00-49-00.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	deleted:    TrueVintage/Saved/Backup/ThirdPerson_AnimBP_2017-01-28-16-07-56.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	deleted:    TrueVintage/Saved/Backup/TopDownCharacter_2017-01-28-16-07-56.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	deleted:    TrueVintage/Saved/Backup/TopDownExampleMap_2017-01-28-16-07-56.umap
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	modified:   TrueVintage/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	modified:   TrueVintage/Saved/Config/Windows/Engine.ini
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	modified:   TrueVintage/Saved/Config/Windows/SourceControlSettings.ini
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	deleted:    TrueVintage/Saved/Config/WorldState/1077236724.json
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	modified:   TrueVintage/Saved/Logs/TrueVintage.log
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	deleted:    TrueVintage/Saved/Logs/UE4CC-Windows-4989F45C4F725178BEF7C79B3D5BD8F7/CrashReportClient.ini
+[2017.09.25-02.59.50:245][879]SourceControl: Info Untracked files:
+[2017.09.25-02.59.50:245][879]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Content/StarterContent/myparticles/Sprite/D_leaf_tex.tga
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Content/StarterContent/myparticles/Sprite/D_rock_tex.tga
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Content/StarterContent/myparticles/Sprite/Trail.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Content/StarterContent/myparticles/gpusprite/p_sparks.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Content/StarterContent/myparticles/mesh/lambert1.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Content/StarterContent/myparticles/mesh/sd_rock.fbx
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Content/StarterContent/myparticles/mesh/sword.fbx
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Content/StarterContent/myparticles/sword.fbx
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Content/StarterContent/myparticles/vel.177.fga
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Content/vel.177.fga
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Autosaves/Game/StarterContent/
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto5.umap
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Backup/BladeBarrior_2017-09-03-20-24-12.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Backup/CubeMaterial_2017-09-04-00-46-42.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Backup/Leaf_2017-09-03-21-30-14.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Backup/Leaf_2017-09-03-21-47-37.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Backup/M_Brick_Clay_Old_2017-09-03-21-30-14.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Backup/M_Brick_Clay_Old_2017-09-04-00-46-42.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Backup/M_Dust_Particle_2017-09-05-19-56-07.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Backup/M_Dust_Particle_2017-09-05-21-53-31.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Backup/M_LightStage_Arrows_2017-09-03-21-30-14.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Backup/M_LightStage_Arrows_2017-09-04-00-46-42.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Backup/M_Rock_Basalt_2017-09-04-00-46-42.uasset
+[2017.09.25-02.59.50:245][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-20-28-29.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-20-45-57.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-21-30-14.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-21-43-28.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-21-52-55.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-22-09-49.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-22-37-19.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-22-44-10.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-22-52-36.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-23-38-35.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-03-23-54-49.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-00-45.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-10-23.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-15-39.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-20-58.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-26-43.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-32-20.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-38-40.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_Whirlwind_2017-09-04-00-43-58.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_beam_2017-09-04-11-10-20.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_beam_2017-09-04-11-19-02.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_beam_2017-09-04-11-24-45.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_beam_2017-09-04-11-34-54.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_beam_2017-09-04-11-46-34.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail2_2017-09-06-20-27-39.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail2_2017-09-06-20-41-45.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail2_2017-09-06-20-50-53.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail2_2017-09-06-20-56-15.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail2_2017-09-06-21-37-36.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail2_2017-09-06-21-44-59.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-19-56-07.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-20-04-17.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-20-10-10.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-20-16-15.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-20-30-08.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-20-40-08.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-20-51-32.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-21-01-32.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-21-14-00.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-21-24-24.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-21-48-03.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-21-53-25.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-22-22-46.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-22-32-13.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-22-37-41.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-23-09-34.uasset
+[2017.09.25-02.59.50:246][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-05-23-22-08.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-06-20-31-47.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/P_trail_2017-09-06-20-57-06.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/Rock_mat_2017-09-04-00-46-42.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/Smoke_2017-09-06-20-09-22.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/Smoke_2017-09-06-20-31-47.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-18-20-04.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-18-51-17.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-19-16-19.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-20-23-36.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-20-46-52.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-20-56-58.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-21-53-53.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-03-22-41-54.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-04-00-46-14.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-04-11-19-02.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-04-11-55-26.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-05-21-53-33.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-05-22-32-13.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-05-23-16-50.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-05-23-24-04.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-06-20-31-47.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-06-20-57-06.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-06-21-46-04.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_2017-09-18-01-04-24.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-03-19-16-19.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-03-20-23-36.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-03-20-46-52.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-03-20-56-58.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-03-21-53-53.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-03-22-41-54.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-04-00-46-14.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-05-23-24-05.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-06-21-46-04.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMap_BuiltData_2017-09-18-01-04-25.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMapnight_2017-09-24-19-44-55.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/TopDownExampleMapnight_2017-09-24-19-58-39.umap
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/beam_2017-09-04-11-04-03.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/beam_2017-09-05-21-53-31.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/gp4_2017-09-18-00-49-16.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/gp4_2017-09-18-00-56-42.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/gp4_2017-09-18-01-03-48.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-18-09-28.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-18-19-22.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-18-24-42.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-18-40-36.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-18-48-02.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-18-53-08.uasset
+[2017.09.25-02.59.50:247][879]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-19-03-33.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-19-09-27.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-20-03-36.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-20-09-18.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-20-15-21.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/mesh_2017-09-03-20-20-24.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/p_FIRESTORM_gpu2_2017-09-03-20-26-33.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/p_FIRESTORM_gpu_2017-09-03-20-24-37.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/p_FIRESTORM_gpu_2017-09-03-20-56-58.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/smoke_00085_2017-09-06-20-57-06.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/spark_2017-09-03-17-54-15.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/spark_2017-09-03-18-30-24.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/spark_2017-09-03-18-39-35.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/spark_2017-09-05-19-56-07.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/spark_2017-09-05-21-53-31.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/sword_blinn_2017-09-03-17-47-51.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/sword_blinn_2017-09-03-17-53-28.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Backup/sword_blinn_2017-09-03-18-14-33.uasset
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Config/WorldState/982493035.json
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Diff/
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Logs/TrueVintage_2-backup-2017.09.24-19.26.09.log
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Logs/TrueVintage_2-backup-2017.09.24-19.36.44.log
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Logs/TrueVintage_2.log
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Logs/UE4CC-Windows-0888A23E4C68D1B606FE45BA30AEEA5A/
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Logs/UE4CC-Windows-68045B6447EA9A20B9DF30A0CEAF2A3F/
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Logs/UE4CC-Windows-999C41D447E8A5B3ECA08C9FE7BBE2D3/
+[2017.09.25-02.59.50:248][879]SourceControl: Info 	TrueVintage/Saved/Logs/UE4CC-Windows-999C41D447E8A5B3ECA08C9FE7BBE2D3_0000/
+[2017.09.25-03.00.09:347][367]Cmd: QUIT_EDITOR
+[2017.09.25-03.00.09:415][367]LogExit: Preparing to exit.
+[2017.09.25-03.00.10:475][367]LogDirectoryWatcher: A directory notification for 'C:/Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/' was aborted.
+[2017.09.25-03.00.10:526][367]LogExit: Editor shut down
+[2017.09.25-03.00.10:527][367]LogExit: Transaction tracking system shut down
+[2017.09.25-03.00.10:672][367]LogObj: Freed 0b from 0 cluster array pools.
+[2017.09.25-03.00.10:673][367]LogExit: Object subsystem successfully closed.
+[2017.09.25-03.00.10:687][367]LogD3D11RHI: Shutdown
+[2017.09.25-03.00.10:687][367]LogD3D11RHI: CleanupD3DDevice
+[2017.09.25-03.00.10:843][367]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.09.25-03.00.10:878][367]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.09.25-03.00.10:878][367]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B53BA2AE1-4703-E2FA-9EE3-B08F51792077%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=85fd1a26401b641fd23bc0b296c043a9%7C47a89de7b3904066b98aeb09bbf1f50a%7Caccf1cc6-0518-46a0-9c67-39a195230df3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.09.25-03.00.10:894][367]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (244)
+[2017.09.25-03.00.10:894][367]LogModuleManager: Shutting down and abandoning module StatsViewer (243)
+[2017.09.25-03.00.10:894][367]LogModuleManager: Shutting down and abandoning module BlueprintGraph (242)
+[2017.09.25-03.00.10:894][367]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (241)
+[2017.09.25-03.00.10:902][367]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (240)
+[2017.09.25-03.00.10:902][367]LogModuleManager: Shutting down and abandoning module CrashTracker (239)
+[2017.09.25-03.00.10:902][367]LogModuleManager: Shutting down and abandoning module SceneOutliner (238)
+[2017.09.25-03.00.10:902][367]LogModuleManager: Shutting down and abandoning module WidgetCarousel (237)
+[2017.09.25-03.00.10:902][367]LogModuleManager: Shutting down and abandoning module AddContentDialog (236)
+[2017.09.25-03.00.10:902][367]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.09.25-03.00.10:903][367]LogModuleManager: Shutting down and abandoning module GameplayTags (235)
+[2017.09.25-03.00.10:903][367]LogModuleManager: Shutting down and abandoning module EditorWidgets (234)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module CollectionManager (233)
+[2017.09.25-03.00.10:904][367]LogDirectoryWatcher: A directory notification for 'C:/Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/Collections/' was aborted.
+[2017.09.25-03.00.10:904][367]LogDirectoryWatcher: A directory notification for 'C:/Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/Developers/kevin/Collections/' was aborted.
+[2017.09.25-03.00.10:904][367]LogDirectoryWatcher: A directory notification for 'C:/Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Saved/Collections/' was aborted.
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.09.25-03.00.10:904][367]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.09.25-03.00.10:905][367]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.09.25-03.00.10:905][367]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.09.25-03.00.10:905][367]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.09.25-03.00.10:905][367]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.09.25-03.00.10:905][367]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.09.25-03.00.11:339][367]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.09.25-03.00.11:339][367]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.09.25-03.00.11:339][367]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.09.25-03.00.11:339][367]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.09.25-03.00.11:339][367]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.09.25-03.00.11:339][367]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.09.25-03.00.11:339][367]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.09.25-03.00.11:339][367]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.09.25-03.00.11:339][367]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.09.25-03.00.11:339][367]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.09.25-03.00.11:339][367]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.09.25-03.00.11:340][367]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.09.25-03.00.11:340][367]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.09.25-03.00.11:340][367]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.09.25-03.00.11:340][367]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.09.25-03.00.11:340][367]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.09.25-03.00.11:340][367]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.09.25-03.00.11:340][367]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.09.25-03.00.11:340][367]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.09.25-03.00.11:340][367]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.09.25-03.00.11:340][367]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.09.25-03.00.11:340][367]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.09.25-03.00.11:340][367]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.09.25-03.00.11:340][367]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.09.25-03.00.11:340][367]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.09.25-03.00.11:340][367]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.09.25-03.00.11:380][367]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.09.25-03.00.11:380][367]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.09.25-03.00.11:380][367]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.09.25-03.00.11:380][367]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.09.25-03.00.11:380][367]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.09.25-03.00.11:380][367]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.09.25-03.00.11:380][367]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.09.25-03.00.11:380][367]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.09.25-03.00.11:380][367]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.09.25-03.00.11:394][367]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.09.25-03.00.11:395][367]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.09.25-03.00.11:636][367]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.09.25-03.00.11:636][367]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.09.25-03.00.11:636][367]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.09.25-03.00.11:636][367]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.09.25-03.00.11:636][367]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.09.25-03.00.11:636][367]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.09.25-03.00.11:636][367]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.09.25-03.00.11:636][367]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.09.25-03.00.11:636][367]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.09.25-03.00.11:636][367]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.09.25-03.00.11:636][367]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.09.25-03.00.11:636][367]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.09.25-03.00.11:636][367]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.09.25-03.00.11:637][367]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.09.25-03.00.11:639][367]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.09.25-03.00.11:640][367]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.09.25-03.00.11:640][367]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.09.25-03.00.11:740][367]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.09.25-03.00.11:840][367]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.09.25-03.00.11:840][367]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.09.25-03.00.11:840][367]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.09.25-03.00.11:840][367]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.09.25-03.00.11:840][367]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.09.25-03.00.11:840][367]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.09.25-03.00.11:841][367]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.09.25-03.00.11:841][367]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.09.25-03.00.11:841][367]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.09.25-03.00.11:841][367]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.09.25-03.00.11:841][367]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.09.25-03.00.11:841][367]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.09.25-03.00.11:841][367]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.09.25-03.00.11:841][367]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.09.25-03.00.11:841][367]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.09.25-03.00.11:841][367]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.09.25-03.00.11:841][367]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.09.25-03.00.11:841][367]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.09.25-03.00.11:841][367]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.09.25-03.00.11:841][367]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.09.25-03.00.11:841][367]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.09.25-03.00.11:844][367]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.09.25-03.00.11:844][367]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.09.25-03.00.11:844][367]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.09.25-03.00.11:844][367]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.09.25-03.00.11:844][367]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.09.25-03.00.11:844][367]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.09.25-03.00.11:844][367]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.09.25-03.00.11:844][367]LogDirectoryWatcher: A directory notification for '../../../../../../Users/kevin/Documents/Unreal Projects/TopShelf/TrueVintage/Content/' was aborted.
+[2017.09.25-03.00.11:844][367]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.09.25-03.00.11:845][367]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.09.25-03.00.12:059][367]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.09.25-03.00.12:059][367]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.09.25-03.00.12:059][367]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.09.25-03.00.12:059][367]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.09.25-03.00.12:059][367]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.09.25-03.00.12:059][367]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.09.25-03.00.12:059][367]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.09.25-03.00.12:059][367]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.09.25-03.00.12:130][367]LogDerivedDataCache: Shutdown
+[2017.09.25-03.00.12:130][367]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.09.25-03.00.12:130][367]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.09.25-03.00.12:130][367]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.09.25-03.00.12:130][367]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.09.25-03.00.12:130][367]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.09.25-03.00.12:130][367]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.09.25-03.00.12:130][367]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.09.25-03.00.12:130][367]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.09.25-03.00.12:131][367]LogOnline:Display: Unloading online subsystem: NULL
+[2017.09.25-03.00.12:131][367]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.09.25-03.00.12:133][367]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.09.25-03.00.12:133][367]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.09.25-03.00.12:133][367]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.09.25-03.00.12:133][367]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.09.25-03.00.12:133][367]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.09.25-03.00.12:133][367]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.09.25-03.00.12:135][367]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.09.25-03.00.12:135][367]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.09.25-03.00.12:135][367]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.09.25-03.00.12:135][367]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.09.25-03.00.12:135][367]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.09.25-03.00.12:135][367]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.09.25-03.00.12:135][367]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.09.25-03.00.12:135][367]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.09.25-03.00.12:135][367]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.09.25-03.00.12:135][367]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.09.25-03.00.12:138][367]LogExit: Exiting.
+[2017.09.25-03.00.12:148][367]Log file closed, 09/24/17 20:00:12
